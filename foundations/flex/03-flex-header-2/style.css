@@ -63,13 +63,8 @@ ul {
   gap: 12px;
 }
 
-.right-items {
-  display: flex;
-  gap: 12px;
-}
-
-.left-items {
+.right-items, .left-items {
   display: flex;
   align-items: center;
-  gap: 20px;
+  gap: 16px;
 }
