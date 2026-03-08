@@ -15,7 +15,6 @@ img {
 /* Solution */
 body, .images, .images * {
   display: flex;
-
   justify-content: center;
   align-items: center;
 }
